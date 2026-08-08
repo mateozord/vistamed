@@ -2,7 +2,7 @@
 
 Proposta de redesign conceitual para uma clínica oftalmológica, com agendamento integrado ao WhatsApp.
 
-🔗 [vistamednew.netlify.app](https://vistamednew.netlify.app)
+🔗 [vistamednovo.netlify.app](https://vistamednovo.netlify.app)
 
 ## Sobre
 
